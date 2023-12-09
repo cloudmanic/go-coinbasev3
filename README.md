@@ -6,7 +6,7 @@ This is a Go client for the Coinbase Advanced Trades API (v3). Work in progress.
 ## Installation
 
 ```bash
-go get github.com/netr/go-coinbasev3
+go get github.com/cloudmanic/go-coinbasev3
 ```
 
 ## Progress
